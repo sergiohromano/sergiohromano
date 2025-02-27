@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Tracera](https://tracera.com)
 - 🌱 I’m currently learning about SDKs and CLIs
 - 👯 I’m looking to collaborate on open source projects
-- 😄 I enjoy building from the grounds and making improvements 👷🧰🛠️⚙️
-I like to see the macro view of a problem to find a solution 🗺️👀🕵️
+- 😄 I enjoy building from the grounds and making improvements 👷🧰🛠️⚙️. I like to see the macro view of a problem to find a solution 🗺️👀🕵️
 - 🔍 I'm focused on solution architecture 🏗️, serverless, dev experience 💻 (SDKs, CLIs) and SaaS 💼
 - ⚡ Fan of scripting, bash and I use vim btw ⌨️
 - 📫 How to reach me:
